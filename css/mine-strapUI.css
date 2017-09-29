@@ -52,7 +52,7 @@
 }
 
 .slide-template {
-  background-image: url('../images/CYAF3Wg.jpg');
+  background-image: url('../images/statue.jpg');
   background-position: 0px -163px;
   background-size: cover;
 }
@@ -60,7 +60,7 @@
 .image-section {
   height: 510px;
   border-bottom: 4px solid #1a80a5;
-  background-image: url('../images/CYAF3Wg.jpg');
+  background-image: url('../images/statue.jpg');
   background-position: 50% 0px;
   background-size: cover;
   background-attachment: fixed;
